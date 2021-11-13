@@ -3,15 +3,14 @@
 
 ![Borrowell](https://www.thekickassentrepreneur.com/wp-content/uploads/2020/07/Borrowell-logo-1.png)
 
-## **Background TEST**
+## **Background**
 In 2014, Andrew Graham and Eva Wong co-founded Borowell with vision to help Canadians make great decisions about credit [1]. The two founders noticed that many Canadians with sound credit-card history are making unhealthy financial habits of carrying their credit card balances, paying interest at high rates due complex and long processing time in traditional lending system [2]. The two founders aimed to create a marketplace platform for lending where Canadians can apply and process loan applications at a much shortened timeline offering personally customized rate [3]. This vision was funded CAD 5.4M by Equitable Bank and Oakwest Corporation through Seed funding and have been funded multiple times through out the years with most current funding amount of CAD 25M in Feb 2021, totalling to CAD 92M [4]. 
 
-## **Expansion** 
+## **Expansion of Services** 
 Over the years, Borrowell has expanded its services leading innovation in lending system, attracting over 2M Canadian members. Partnering with Canada's largest credit bureau, Equifax, Borrowell offers its members speeded loan funding processes with low interest rate, free credit score checks, education on credit and Canada's first personalized credit coach, Molly, powered through Artificial Intelligence (AI) to imrpove credit. They also developed recommendation engine, analyzing each member's credit profile to make personalized financial product recommendation in their partnering financial instituions [1]. The company leverages several technologies for their business such as Impact to find and contracting with interested financial instutions and other partners, as well as Microsoft Azure for primary storage, deploying and hosting machine learning products. [5, 6] 
 
 ## **Lending Sector Landscape**
-
-
+With abundant advancement of technology and its application in FinTech space, major developments in lending sector has been witnessed in the past decade. Many non-banks are entering lending space with the rise of Gen Z as a key  
 Lending & Mortgage sector 
 
 With abundant increase involvement of FinTech and its application  
